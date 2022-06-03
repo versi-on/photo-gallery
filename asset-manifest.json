@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.94900957.css",
+    "main.js": "./static/js/main.2799df4e.js",
+    "static/media/autumn.jpg": "./static/media/autumn.335df5123a41d2299d9e.jpg",
+    "static/media/spring.jpg": "./static/media/spring.8e8037eba1595082869f.jpg",
+    "static/media/grapes.jpg": "./static/media/grapes.f636e0a866a294d4f6b9.jpg",
+    "static/media/berlin-raindrops.jpg": "./static/media/berlin-raindrops.254a0623e70d3728347a.jpg",
+    "static/media/ducks.jpg": "./static/media/ducks.49b295ee2c43f307855f.jpg",
+    "static/media/gull.jpg": "./static/media/gull.2e31886e46f3c9654eec.jpg",
+    "static/media/berlin.jpg": "./static/media/berlin.37cb9110d4b7d0e4d9c2.jpg",
+    "static/media/green-flower.jpg": "./static/media/green-flower.bddc19b6c7bb85a454bb.jpg",
+    "static/media/architecture.jpg": "./static/media/architecture.17c620663de013f38479.jpg",
+    "static/media/berliner-dom.jpg": "./static/media/berliner-dom.3925cd58e0ef80cc3c88.jpg",
+    "index.html": "./index.html",
+    "main.94900957.css.map": "./static/css/main.94900957.css.map",
+    "main.2799df4e.js.map": "./static/js/main.2799df4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94900957.css",
+    "static/js/main.2799df4e.js"
+  ]
+}
