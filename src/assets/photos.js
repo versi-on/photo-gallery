@@ -7,12 +7,13 @@ const photos = [
     {
         id: 2,
         title: "spring",
-        img: "spring.jpg"
+        img: "baum.jpg"
     },
     {
         id: 3,
         title: "flower",
-        img: "green-flower.jpg"
+        img: "spring.jpg"
+
     },
     {
         id: 4,
@@ -31,8 +32,8 @@ const photos = [
     },
     {
         id: 7,
-        title: "autumn",
-        img: "autumn.jpg"
+        title: "schloss",
+        img: "schloss.jpg"
     },
     {
         id: 8,
